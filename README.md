@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siuumanth&label=Profile%20views&color=0e75b6&style=flat" alt="siuumanth" /> </p>
 
-- 🔭 I’m currently working on [Wordle-Flutter](https://github.com/Siuumanth/Wordle-Flutter-app)
+<!-- This is a comment -->- 🔭 I’m currently working on [Wordle-Flutter](https://github.com/Siuumanth/Wordle-Flutter-app)
 
 - 🌱 I’m currently learning **Computer Science, Flutter, DSA, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siuumanth](https://github.com/Siuumanth)
+<!-- This is a comment -->- 👨‍💻 All of my projects are available at [https://github.com/Siuumanth](https://github.com/Siuumanth)
 
 - 📫 How to reach me **gsumanth3005@gmail.com**
 
