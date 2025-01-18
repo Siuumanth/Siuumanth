@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siuumanth&show_icons=true&locale=en&layout=compact&theme=dark" alt="siuumanth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siuumanth&theme=dark" alt="siuumanth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siuumanth" alt="siuumanth" /></p>
 
