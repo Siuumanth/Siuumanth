@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science, Cloud, DSA, WebDev**
 
-<!-- 👨‍💻 All of my projects are available at [https://github.com/Siuumanth](https://github.com/Siuumanth) -->- 
+<!-- 👨‍💻 All of my projects are available at [https://github.com/Siuumanth](https://github.com/Siuumanth) -->
 
 - 📫 How to reach me **gsumanth3005@gmail.com**
 
