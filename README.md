@@ -41,7 +41,8 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=siuumanth&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=siuumanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=siuumanth&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siuumanth&layout=compact&theme=tokyonight&hide_border=false&exclude_repo=repo1,repo2)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siuumanth&theme=tokyonight&hide_border=false)  
 
 ---
