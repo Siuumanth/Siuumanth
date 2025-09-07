@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤖, I'm Sumanth </h1>
 <h3 align="center">A passionate engineer & developer from Bangalore, India</h3>
 
-- 🌱 I’m currently learning **Computer Science, Cloud, DSA, WebDev** 
+- 🌱 I’m currently learning **Computer Science, Cloud, DSA, WebDev, Golang** 
 - 📫 How to reach me **gsumanth3005@gmail.com**
 - ⚡ Fun fact **I'm an atheist🙃**
 
