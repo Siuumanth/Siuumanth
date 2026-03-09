@@ -48,17 +48,17 @@
 <!-- Languages + Backend -->
 <img src="https://skillicons.dev/icons?i=cpp,go,java,js,python,nodejs,express,flask&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <!-- Databases + Infra -->
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,kubernetes,docker&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,grafana,prometheus&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <!-- k6 (not in skillicons) -->
 <img src="https://cdn.simpleicons.org/k6/7D64FF" height="48"/>
