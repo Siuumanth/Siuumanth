@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sumanth&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:dc2626&height=220&section=header&text=Sumanth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
+
 
 <h2>Hi 🤖, I'm Sumanth</h2>
 <h3>A passionate backend-focused engineer from Bangalore, India</h3>
@@ -42,16 +43,29 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,go,java,js,python,html,mysql,sqlite,nodejs,express,flask,firebase,aws,git,github&theme=dark"/>
+<div align="center">
+
+<!-- Languages + Backend -->
+<img src="https://skillicons.dev/icons?i=cpp,go,java,js,python,nodejs,express,flask&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=go&theme=dark"/>
+<!-- Databases + Infra -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,kubernetes,docker&theme=dark" />
 
-<!-- k6 not in skillicons → safe logo -->
 <br/><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,grafana,prometheus&theme=dark" />
+
+<br/><br/>
+
+<!-- k6 (not in skillicons) -->
 <img src="https://cdn.simpleicons.org/k6/7D64FF" height="48"/>
+
+</div>
+
+<br/><br/>
 
 </div>
 
@@ -61,18 +75,15 @@
 
 <div align="center">
 
-<!-- Contributions Graph (MOST RELIABLE) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siuumanth&theme=tokyo-night&hide_border=true"/>
+<!-- Contributions (OLD PANEL REUSED) -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=siuumanth&theme=tokyonight&hide_border=false"/>
 
-<br/><br/>
-
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuumanth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<!-- Top Languages -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siuumanth&layout=compact&bg_color=1f2937&title_color=60a5fa&text_color=e5e7eb&icon_color=93c5fd&border_color=60a5fa&hide_border=true&langs_count=6&exclude_repo=Machine-Learning-and-other-notebooks,Celebrity-Classifier-Model,DSA-with-CPP" height="250" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siuumanth&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=siuumanth&label=Profile%20views&color=2563eb&style=for-the-badge"/>
 </div>
