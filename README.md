@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header -->
+<!-- Hedder -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:dc2626&height=220&section=header&text=Sumanth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 
 
