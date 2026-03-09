@@ -50,7 +50,7 @@
 
 <br/>
 
-<!-- Databases + Infra -->
+<!-- Databases + Infra , im burned out-->
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,kubernetes,docker&theme=dark" />
 
 <br/>
