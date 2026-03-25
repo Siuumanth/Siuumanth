@@ -74,7 +74,9 @@
 <div align="center">
 
 <!-- Contributions (OLD PANEL REUSED) -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=siuumanth&theme=tokyonight&hide_border=false"/>
+<!-- img src="https://nirzak-streak-stats.vercel.app/?user=siuumanth&theme=tokyonight&hide_border=false"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siuumanth&theme=tokyonight&hide_border=false"/>
+
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siuumanth&layout=compact&bg_color=1f2937&title_color=60a5fa&text_color=e5e7eb&icon_color=93c5fd&border_color=60a5fa&hide_border=true&langs_count=6&exclude_repo=Machine-Learning-and-other-notebooks,Celebrity-Classifier-Model,DSA-with-CPP" height="250" alt="Top Languages"/>
