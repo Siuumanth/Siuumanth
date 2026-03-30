@@ -79,7 +79,7 @@
 
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siuumanth&layout=compact&bg_color=1f2937&title_color=60a5fa&text_color=e5e7eb&icon_color=93c5fd&border_color=60a5fa&hide_border=true&langs_count=6&exclude_repo=Machine-Learning-and-other-notebooks,Celebrity-Classifier-Model,DSA-with-CPP" height="250" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siuumanth&layout=compact&bg_color=1f2937&title_color=60a5fa&text_color=e5e7eb&icon_color=93c5fd&border_color=60a5fa&hide_border=true&langs_count=6&exclude_repo=Machine-Learning-and-other-notebooks,Celebrity-Classifier-Model,DSA-with-CPP,TrackWise,DBwebsite,Google-Solution-Challenge,Asobi" height="250" alt="Top Languages"/>
 </div>
 
 <br/>
